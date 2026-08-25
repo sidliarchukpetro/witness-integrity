@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+queue/
+registry.json
+position_bg.json
+*.wav
+*.npz

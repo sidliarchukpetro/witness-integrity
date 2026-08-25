@@ -1,0 +1,37 @@
+{
+ "witness": {
+  "schema_version": 1,
+  "device_id": 82028647362930934,
+  "session_id": 1787566151,
+  "epoch_start_ms": 1787566173455,
+  "epoch_end_ms": 1787566193455,
+  "core_freq_mhz": 614000,
+  "core_spread_mhz": 6000,
+  "frames_total": 79,
+  "frames_saturated": 0,
+  "frames_with_series": 67,
+  "frames_in_core": 67,
+  "longest_run": 67,
+  "band_snr_mdb": 10800,
+  "flatness_milli": 77,
+  "harmonics_found": 4,
+  "bg_tones_mhz": [
+   60000,
+   64000,
+   68000,
+   76000,
+   84000,
+   90000,
+   95000
+  ],
+  "temp_mc": 21500,
+  "humidity_milli": 520,
+  "pressure_pa": 99800
+ },
+ "digest": "5dd90c146f22179d74cb2864d377bd725832bd202e53e374dfd49453f70b41f9",
+ "signature": "<64 bytes hex from ATECC>",
+ "pubkey": "<64 bytes hex>",
+ "serial": "01236c9ec37928f6ee",
+ "signed_at_ms": 1787566193555,
+ "claimed_verdict": "ЦІЛЬ"
+}
