@@ -154,6 +154,14 @@ rollback](docs/firmware-rollback-en.md) ·
 On why signature verification does not prevent installing a genuine,
 signed, older version with a known hole, and what does.
 
+[Friend or foe on a secure element](iff/)
+
+The same binding, shown as authentication between devices: an
+interrogator issues a random challenge, the responder signs it with a key
+that never left the die, and the verdict is rendered against a registry.
+Exercised across two independently provisioned parts — a signature made
+on the ESP32-S3, verified on the Raspberry Pi.
+
 ---
 
 ## Context
